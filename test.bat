@@ -1,0 +1,2 @@
+curl https://social.technet.microsoft.com/Forums/en-US/33665b03-d383-41ed-a836-fd83c217b3f1/making-files-hidden-with-powershell?forum=ITCG --output test.txt
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File
